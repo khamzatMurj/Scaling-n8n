@@ -1,17 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Scaling n8n - GitHub README</title>
-  <style>
-    body { font-family: Arial, sans-serif; line-height: 1.6; padding: 20px; background-color: #f9f9f9; }
-    h1, h2, h3 { color: #2c3e50; }
-    img { max-width: 100%; border: 1px solid #ccc; margin: 20px 0; }
-    code { background: #eee; padding: 2px 4px; border-radius: 4px; }
-  </style>
-</head>
-<body>
+
 
 <h1>🚀 Scaling n8n with Docker Compose</h1>
 
